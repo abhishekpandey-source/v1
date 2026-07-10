@@ -1,5 +1,3 @@
-Final code of that we need
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
